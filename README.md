@@ -8,3 +8,5 @@ A versão utilizada para implementar a solução é a 4.0.0 do Bootstap, mas voc
 
 A solução não tem a necessidade de instação de nenhum framework adicional ou plugin. 
 
+Veja aqui a solução funcionando:
+https://bpgazola.github.io/bootstrap-photo-gallery/gallery.html
