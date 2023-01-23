@@ -1,3 +1,5 @@
+<h1>Galeria de fotos</h1>
+
 Em diversos momentos no desenvolvimento de frontend nos deparamos com a necessidade de criação de uma galeria de fotos para nossos projetos. 
 
 Uma solução que desenvolvi foi utilizando o fremawork Bootstrap e seus componentes. Com o uso do lightbox e jQuery é possível criar uma galeria de fotos totalmente responsiva. 
