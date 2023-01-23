@@ -1,12 +1,12 @@
-<h1>Galeria de fotos</h1>
+<h1>Photo gallery</h1>
 
-Em diversos momentos no desenvolvimento de frontend nos deparamos com a necessidade de criação de uma galeria de fotos para nossos projetos. 
+Several times in frontend development, we were faced with the need to create a photo gallery for our projects.
 
-Uma solução que desenvolvi foi utilizando o fremawork Bootstrap e seus componentes. Com o uso do lightbox e jQuery é possível criar uma galeria de fotos totalmente responsiva. 
+A solution I developed was using the Bootstrap fremawork and its components. With the use of lightbox and jQuery it is possible to create a fully responsive photo gallery.
 
-A versão utilizada para implementar a solução é a 4.0.0 do Bootstap, mas você pode utilizar qualquer uma que utilize o plugin lightbox.
+The version used to implement the solution is Bootstap 4.0.0, but you can use any version that uses the lightbox plugin.
 
-A solução não tem a necessidade de instação de nenhum framework adicional ou plugin. 
+The solution does not need to install any additional frameworks or plugins.
 
-Veja aqui a solução funcionando:
+See the working solution here:
 https://bpgazola.github.io/bootstrap-photo-gallery/gallery.html
